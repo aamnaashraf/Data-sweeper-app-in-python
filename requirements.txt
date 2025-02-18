@@ -1,0 +1,8 @@
+streamlit==1.42.0
+pandas==2.2.3
+numpy==1.26.4
+plotly==6.0.0
+ydata-profiling==4.12.2
+scikit-learn==1.6.1
+openpyxl==3.1.5
+xlrd==2.0.1
